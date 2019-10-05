@@ -281,6 +281,11 @@ body {
     .work h3{
       font-weight: 10px;
       line-height: 0px;
-
     }
+    h1{
+      font-size: 25px;
+      font-weight: 500;
+      line-height: 0px;
+    }
+   
   }
