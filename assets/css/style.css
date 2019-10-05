@@ -263,8 +263,9 @@ body {
       font-size: 20px;
       font-weight: 400;
       line-height: 60px;
-      
-    
+    }
+    #main-container {
+      padding-top: 100px;
     }
   }
 /* media screen size 640px */
