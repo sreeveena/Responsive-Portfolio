@@ -62,10 +62,10 @@ screenshot of the pages
 ![image](https://user-images.githubusercontent.com/7834767/66251355-22b9d400-e704-11e9-8af4-a58bfd108746.png)
 
 @media screen about 640px. 
-![image](https://user-images.githubusercontent.com/7834767/66251358-3a915800-e704-11e9-8e85-124765a2616b.png)
+![image](https://user-images.githubusercontent.com/7834767/66251472-49c4d580-e705-11e9-8d03-e8e7320a40e4.png)
 
 @media screen contact 640px. 
-
+![image](https://user-images.githubusercontent.com/7834767/66251482-5e08d280-e705-11e9-9854-6096e7ce79ea.png)
 
 @media screen portfolio 640px.
-![image](https://user-images.githubusercontent.com/7834767/66251385-6c0a2380-e704-11e9-9143-6d74f58c7fee.png)
+![image](https://user-images.githubusercontent.com/7834767/66251490-6cef8500-e705-11e9-8cf4-a1df3bfbdbed.png)
