@@ -101,15 +101,17 @@ body {
   /* footer */
   
   footer {
+    position: fixed;
     padding: 30px 0;
     clear: both;
     font-size: 12px;
     color: #ffffff;
-    color: #cccccc;
     text-align: center;
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+    width: 100%;
+   
   }
   
   h3, h2 {
@@ -117,6 +119,7 @@ body {
     margin-bottom: 15px;
     line-height: 22px;
     border-bottom: 2px solid #eeeeee;
+    
   }
   
   /* main */
@@ -251,6 +254,16 @@ body {
     .work{
       width: 300px;
       padding-left: 50px;
+    }
+    #logo {
+      
+      width: 150px;
+      height: 60px;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 60px;
+      
+    
     }
   }
 /* media screen size 640px */
